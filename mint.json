@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Documentation Starter Kit",
+  "name": "디오 체인지로그, 가이드, 정책 안내",
   "logo": {
     "dark": "/logo/dark.png",
     "light": "/logo/light.png"
@@ -18,7 +18,7 @@
     }
   ],
   "topbarCtaButton": {
-    "name": "Get Started",
+    "name": "나는 디오다!",
     "url": "https://github.com/mintlify/starter"
   },
   "anchors": [
